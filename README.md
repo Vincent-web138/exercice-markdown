@@ -4,6 +4,7 @@
 1. Pommes
 2. Framboises
 3. Poires
+4. Mangue
 
 ### Listes de composantes de PC
 ­processeur
